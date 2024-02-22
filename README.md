@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gegiuuu
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Front-End Languages
+- 📫 How to reach me gegiucoding@gmail.com
